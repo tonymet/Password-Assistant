@@ -1,0 +1,24 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {showPasswordAssistantPanel = id; }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {showPasswordAssistantPanel = id; }; 
+            CLASS = SFPasswordAssistantInspectorController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_baseWindow" = NSWindow; 
+                "_newPassword" = NSTextField; 
+                "_originalPassword" = NSTextField; 
+                "_verifyPassword" = NSTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
