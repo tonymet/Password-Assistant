@@ -229,8 +229,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -267,6 +265,7 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
+								<string>0B1EF94A14DA1C18006BE7C2</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
@@ -296,7 +295,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>568 519 788 504 0 0 1920 1178 </string>
+						<string>302 265 788 504 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -333,7 +332,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 277}}</string>
 								<key>RubberWindowFrame</key>
-								<string>568 519 788 504 0 0 1920 1178 </string>
+								<string>302 265 788 504 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -341,6 +340,8 @@
 							<string>277pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -353,7 +354,7 @@
 								<key>Frame</key>
 								<string>{{0, 282}, {580, 181}}</string>
 								<key>RubberWindowFrame</key>
-								<string>568 519 788 504 0 0 1920 1178 </string>
+								<string>302 265 788 504 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -517,7 +518,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>0B1EF93A14DA1BAB006BE7C2</string>
+		<string>0B1EF94B14DA1C18006BE7C2</string>
 		<string>0B1EF93B14DA1BAB006BE7C2</string>
 		<string>0B1EF93C14DA1BAB006BE7C2</string>
 		<string>1C78EAAD065D492600B07095</string>
@@ -526,7 +527,7 @@
 		<string>/Users/ametzidis/Documents/workspace/Password Assistant 1.0/Password Assistant.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>568 519 788 504 0 0 1920 1178 </string>
+	<string>302 265 788 504 0 0 1920 1178 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

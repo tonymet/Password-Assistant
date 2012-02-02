@@ -27,7 +27,7 @@
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* Password Assistant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Password Assistant.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B06B1070A23A1F000C768CB /* SFPasswordAssistantInspectorController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFPasswordAssistantInspectorController.h; sourceTree = "<group>"; };
-		9B06B10C0A23A23B00C768CB /* SecurityInterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SecurityInterface.framework; path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/SecurityInterface.framework; sourceTree = "<absolute>"; };
+		9B06B10C0A23A23B00C768CB /* SecurityInterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SecurityInterface.framework; path = SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SecurityInterface.framework; sourceTree = SYSTEM_DEVELOPER_DIR; };
 		9B06B1120A23A24C00C768CB /* Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Controller.h; sourceTree = "<group>"; };
 		9B06B1130A23A24C00C768CB /* Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Controller.m; sourceTree = "<group>"; wrapsLines = 0; };
 /* End PBXFileReference section */
