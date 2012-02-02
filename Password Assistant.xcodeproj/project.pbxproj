@@ -225,7 +225,6 @@
 				PRODUCT_NAME = "Password Assistant";
 				SDKROOT = "";
 				WRAPPER_EXTENSION = app;
-				ZERO_LINK = YES;
 			};
 			name = Debug;
 		};
