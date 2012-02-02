@@ -239,7 +239,6 @@
 							<string>1C37FAAC04509CD000000102</string>
 							<string>1C37FABC05509CD000000102</string>
 							<string>1C37FABC05539CD112110102</string>
-							<string>E2644B35053B69B200211256</string>
 							<string>1C37FABC04509CD000100104</string>
 							<string>1CC0EA4004350EF90044410B</string>
 							<string>1CC0EA4004350EF90041110B</string>
@@ -269,8 +268,8 @@
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
+								<string>0BE84D4114DA1E6300232ED1</string>
 								<string>1C37FAAC04509CD000000102</string>
-								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
@@ -327,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>0BE84D4B14DA1E9100232ED1</string>
+										<string>0BE84D7514DA204D00232ED1</string>
 										<key>history</key>
 										<array>
 											<string>0B1EF97B14DA1D8C006BE7C2</string>
@@ -529,6 +528,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>0BE84D7614DA204D00232ED1</string>
+		<string>0BE84D5A14DA1EB000232ED1</string>
+		<string>0BE84D5B14DA1EB000232ED1</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>0B1EF92714DA1B87006BE7C2</string>
 		<string>/Users/ametzidis/Documents/workspace/Password Assistant 1.0/Password Assistant.xcodeproj</string>
@@ -901,7 +904,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>0B1EF96514DA1CC5006BE7C2</string>
+				<string>0BE84D5814DA1EB000232ED1</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
