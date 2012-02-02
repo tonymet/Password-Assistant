@@ -131,6 +131,16 @@
 		vrLen = 723;
 		vrLoc = 0;
 	};
+	0BE84D7914DA20D200232ED1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B06B1130A23A24C00C768CB /* Controller.m */;
+		name = "Controller.m: 55";
+		rLen = 0;
+		rLoc = 2030;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeArchitecturePreference = i386;
 		activeBuildConfigurationName = Release;
@@ -235,6 +245,7 @@
 			0BE84D6A14DA1F2200232ED1 /* PBXTextBookmark */ = 0BE84D6A14DA1F2200232ED1 /* PBXTextBookmark */;
 			0BE84D7114DA200000232ED1 /* PBXTextBookmark */ = 0BE84D7114DA200000232ED1 /* PBXTextBookmark */;
 			0BE84D7514DA204D00232ED1 /* PBXTextBookmark */ = 0BE84D7514DA204D00232ED1 /* PBXTextBookmark */;
+			0BE84D7914DA20D200232ED1 /* PBXTextBookmark */ = 0BE84D7914DA20D200232ED1 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 0B1EF93D14DA1BAB006BE7C2 /* Source Control */;
 		userBuildSettings = {
