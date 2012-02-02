@@ -267,6 +267,8 @@
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97315FDCFA39411CA2CEA</string>
+								<string>29B97317FDCFA39411CA2CEA</string>
+								<string>29B97318FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>0BE84D4114DA1E6300232ED1</string>
 								<string>1C37FAAC04509CD000000102</string>
@@ -274,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>12</integer>
-									<integer>11</integer>
+									<integer>17</integer>
+									<integer>16</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -298,7 +300,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>339 299 788 504 0 0 1920 1178 </string>
+						<string>102 412 788 504 0 0 1920 1178 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -314,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Controller.m</string>
+								<string>Unlock-256.icns</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -322,15 +324,17 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Controller.m</string>
+										<string>Unlock-256.icns</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>0BE84D9314DA229500232ED1</string>
+										<string>0BE84DAC14DA257500232ED1</string>
 										<key>history</key>
 										<array>
-											<string>0B1EF97B14DA1D8C006BE7C2</string>
-											<string>0B1EF98414DA1E5C006BE7C2</string>
+											<string>0BE84D9D14DA24CA00232ED1</string>
+											<string>0BE84D9E14DA24CA00232ED1</string>
+											<string>0BE84D9F14DA24CA00232ED1</string>
+											<string>0BE84DA914DA255100232ED1</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -344,7 +348,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 260}}</string>
 								<key>RubberWindowFrame</key>
-								<string>339 299 788 504 0 0 1920 1178 </string>
+								<string>102 412 788 504 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -364,7 +368,7 @@
 								<key>Frame</key>
 								<string>{{0, 265}, {580, 198}}</string>
 								<key>RubberWindowFrame</key>
-								<string>339 299 788 504 0 0 1920 1178 </string>
+								<string>102 412 788 504 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -528,7 +532,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>0BE84D9414DA229500232ED1</string>
 		<string>0BE84D5A14DA1EB000232ED1</string>
 		<string>0BE84D5B14DA1EB000232ED1</string>
 		<string>1C78EAAD065D492600B07095</string>
@@ -537,7 +540,7 @@
 		<string>/Users/ametzidis/Documents/workspace/Password Assistant 1.0/Password Assistant.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>339 299 788 504 0 0 1920 1178 </string>
+	<string>102 412 788 504 0 0 1920 1178 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
