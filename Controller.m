@@ -51,7 +51,7 @@
 	[pwAsst->_passwordAssistantPanel makeKeyAndOrderFront:self];
 }
 -(BOOL) applicationShouldTerminateAfterLastWindowClosed:(NSApplication *)app {
-    return YES;
+    return NO;
 }
 
 
